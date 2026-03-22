@@ -1,6 +1,16 @@
 # 💫 About Me:
-Hi 👋, I'm Rebison<br>A passionate full stack developer from India<br><br>Strong in:<br> Object Oriented Programming<br> Data Structures & Algorithms<br> System Design fundamentals<br> Backend security, scalability and performance<br><br>Main Goal:<br> Become a product-focused engineer who builds scalable, meaningful systems.
+Hi 👋, I'm Rebison<br>A passionate full stack developer from India
 
+Building scalable, production-ready web applications with modular monolith architecture.
+
+Strong in:
+- Object Oriented Programming
+- Data Structures & Algorithms
+- System Design fundamentals
+- Backend security, scalability and performance
+  
+Main Goal:
+- Become a product-focused engineer who builds scalable, meaningful systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rebison-i) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rebison85@gmail.com) 
